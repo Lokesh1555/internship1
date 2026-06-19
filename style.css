@@ -1,0 +1,23 @@
+h1{
+    color: blue;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+}
+.one{
+    font-size: 20px;
+}
+.two{
+    display: inline-block;
+    margin-left: 30px;
+}
+.four
+{
+    color: white;
+background-color: black;
+}
+:hover.four
+{
+    background-color: blue;
+}
